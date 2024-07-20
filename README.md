@@ -17,6 +17,6 @@ Focus Areas:
 | S.NO.| TOPIC | LINK |
 |-|-|-|
 |01| Problem Statement |(https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated%20Project%20guide%20data%20set/Guide%20-%20Data%20Science%202.0%20Capstone%20Project.docx)
-|02| Data Sources | (https://inc-excel.officeapps.live.com/x/_layouts/XlFileHandler.aspx?sheetName=in&downloadAsCsvEnabled=1&WacUserType=WOPI&usid=4d2c2992-8a6d-f231-bbb1-fb7ea989c832&NoAuth=1&waccluster=IN3)
-|03| Model Traning & Preprocessing | (http://localhost:8888/notebooks/medical decision support system.ipynb)
-|04| Evaluation | (http://localhost:8888/notebooks/medical decision support system.ipynb)
+|02| Data Sources |(https://inc-excel.officeapps.live.com/x/_layouts/XlFileHandler.aspx?sheetName=in&downloadAsCsvEnabled=1&WacUserType=WOPI&usid=4d2c2992-8a6d-f231-bbb1-fb7ea989c832&NoAuth=1&waccluster=IN3)
+|03| Model Traning & Preprocessing |(http://localhost:8888/notebooks/medical decision support system.ipynb)
+|04| Evaluation |(http://localhost:8888/notebooks/medical%20decision%20support%20system.ipynb)
